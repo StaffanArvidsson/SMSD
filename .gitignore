@@ -9,3 +9,4 @@ build
 SMSD*
 build.properties
 .DS_Store
+/target/
